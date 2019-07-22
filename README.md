@@ -1,5 +1,5 @@
 # Hackathon Zé Gotinha
-Equipe Metadata
+Metadata Team (**1st place** at Brazilian Ministry of Health's hackathon - Campus Party Brasilia 2019)
 
 Data preparation for geospatial plotting in Google Maps API.
 
